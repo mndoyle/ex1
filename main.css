@@ -1,0 +1,80 @@
+html {
+    background:black; 
+}
+
+section, footer {
+    font-family: 'Amatic SC', cursive;
+}
+
+header {
+	width:800px;
+	height:250px;
+	margin: 24px auto 0px auto;
+}
+
+header h1 {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    text-align: center;
+}
+section p {
+    font-size: 17pt;
+}
+footer p {
+    text-align: center;
+    color: white;
+    padding-top: 25%;
+}
+
+article {
+    margin-top: -100pt;
+
+}
+article p {
+    font-family: tahoma;
+    font-size: 9pt;
+    width: 350pt;
+}
+
+section {
+    font-size: 14pt;
+    text-decoration: none;
+    color: white;
+}
+
+#col1 {
+    float:left;
+    margin-left: 25%;
+    margin-top: 0%
+}
+#col2 {
+    float:right;
+    margin-right: 25%;
+    margin-top: 0%;
+}
+#topnav li{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Amatic SC', cursive;
+}
+body a:link {
+	text-decoration:none;
+	color:white;
+	}
+
+body a:visited {
+	color: white;
+}
+
+body a:hover {
+	color:lightgoldenrodyellow;
+	text-decoration:underline;
+}
+
+img {
+    float: left;
+    margin-left: 550px;
+    margin-top: -200px;
+
+}

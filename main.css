@@ -26,8 +26,6 @@ footer p {
     padding-top: 25%;
 }
 
-article {
-    margin-top: -100pt;
 
 }
 article p {
@@ -40,6 +38,7 @@ section {
     font-size: 14pt;
     text-decoration: none;
     color: white;
+     margin-top: -100pt;
 }
 
 #col1 {

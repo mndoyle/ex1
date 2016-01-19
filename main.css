@@ -32,11 +32,14 @@ article p {
     width: 350pt;
 }
 
+article {
+    width: 350pt;
+}
+
 section {
     font-size: 14pt;
     text-decoration: none;
     color: white;
-
 }
 
 #col1 {

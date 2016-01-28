@@ -23,10 +23,10 @@ section p {
 }
 footer {
     position: absolute;
-    top: 600px;
+    top: 1100px;
     width: 100%;
     text-align: center;
-    color:white;
+    color: white;
 }
 
 article p {
@@ -40,6 +40,10 @@ section {
     text-decoration: none;
     color: white;
 
+}
+h2{
+    position: absolute;
+    visibility: hidden;
 }
 
 #col1 {
@@ -81,9 +85,6 @@ img {
 
 }
 
-#col1 li, #col2 li {
-    list-style-type: none;
-}
 
 section#main {
     position:absolute;
@@ -94,9 +95,4 @@ h6{
     font-size: 16px;
     position: relative;
     top: -20px;
-}
-
-h2{
-    position: absolute;
-    visibility: hidden;
 }

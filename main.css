@@ -7,6 +7,13 @@ section, footer {
     font-family: 'Amatic SC', cursive;
 }
 
+footer {
+    position: absolute;
+    top: 600px;
+    width: 100%;
+    text-align: center;
+    color:white;
+}
 header {
 	width:800px;
 	height:250px;

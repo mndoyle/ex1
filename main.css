@@ -7,9 +7,9 @@ section, footer {
     font-family: 'Amatic SC', cursive;
 }
 
-footer {
+footer p{
     position: absolute;
-    top: 600px;
+    top: 50px;
     width: 100%;
     text-align: center;
     color:white;

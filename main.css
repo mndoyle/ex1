@@ -1,23 +1,24 @@
-
 html {
-    background:black; 
+    background: black;
 }
 
-section, footer {
+section,
+footer {
     font-family: 'Amatic SC', cursive;
 }
 
-footer p{
+footer p {
     position: absolute;
     top: 150px;
     width: 100%;
     text-align: center;
-    color:white;
+    color: white;
 }
+
 header {
-	width:800px;
-	height:250px;
-	margin: 24px auto 0px auto;
+    width: 800px;
+    height: 250px;
+    margin: 24px auto 0px auto;
 }
 
 header h1 {
@@ -25,15 +26,17 @@ header h1 {
     color: white;
     text-align: center;
 }
+
 section p {
     font-size: 17pt;
 }
+
 footer {
     position: absolute;
-    top: 750px;
+    top: 800px;
     width: 100%;
     text-align: center;
-    color:white;
+    color: white;
 }
 
 article p {
@@ -46,70 +49,72 @@ section {
     font-size: 14pt;
     text-decoration: none;
     color: white;
-
 }
 
 #col1 {
-    float:left;
+    float: left;
     margin-left: 25%;
     margin-top: 0%
 }
+
 #col2 {
-    float:right;
+    float: right;
     margin-right: 25%;
     margin-top: 0%;
 }
-#topnav li{
+
+#topnav li {
     color: white;
     list-style-type: none;
     text-decoration: none;
     font-family: 'Amatic SC', cursive;
 }
+
 body a:link {
-	text-decoration:none;
-	color:white;
-	}
+    text-decoration: none;
+    color: white;
+}
 
 body a:visited {
-	color: white;
+    color: white;
 }
 
 body a:hover {
-	color:lightgoldenrodyellow;
-	text-decoration:underline;
+    color: lightgoldenrodyellow;
+    text-decoration: underline;
 }
 
 img {
     background: white;
-    padding:5px;
+    padding: 5px;
     float: left;
     margin-left: 550px;
     margin-top: -200px;
-
 }
 
-#col1 li, #col2 li {
+#col1 li,
+#col2 li {
     list-style-type: none;
 }
 
 section#main {
-    position:absolute;
-    top:120px;
+    position: absolute;
+    top: 120px;
 }
 
-h6{
+h6 {
     font-size: 16px;
     position: relative;
     top: -20px;
 }
 
+h1 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+}
 
-h1 { 
-text-align: center;
-font-family: 'Amatic SC', cursive;
-color:white;}
-
-h2{
+h2 {
     position: absolute;
     visibility: hidden;
 }

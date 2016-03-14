@@ -7,7 +7,7 @@ footer {
     font-family: 'Amatic SC', cursive;
 }
 
-t footer p {
+footer p {
     position: absolute;
     top: 150px;
     width: 100%;
@@ -33,7 +33,7 @@ section p {
 
 footer {
     position: absolute;
-    top: 800px;
+    top: 900px;
     width: 100%;
     text-align: center;
     color: white;
